@@ -22,7 +22,7 @@ The dataset used in this project is sourced from:
 https://drive.google.com/file/d/1llNfAb0WOCsYDJKsuGEGggEqk8n36LZL/view?usp=sharing
 
 ## Author
-**Saikat Chowdhury**  
+**Anik Karmakar**  
 GitHub: [Anik Karmakar](https://github.com/Anik-Karmakar)
 
 ## License
